@@ -21,8 +21,7 @@ Open source projects with protestware
 ### peacenotwar
 <https://github.com/RIAEvangelist/peacenotwar>
 
-If any users are using IP in Russia or Belarus, all their file will be wiped entirely by hearts.
-
+If any users are using IP in Russia or Belarus, all their file will be [wiped entirely by hearts](https://security.snyk.io/vuln/SNYK-JS-PEACENOTWAR-2426724).
 
 ### node-ipc
 
@@ -36,7 +35,7 @@ If any users are using IP in Russia or Belarus, all their file will be wiped ent
 Manually set a 25% probability at the beginning of the timeout, so that this thing looks more like a floating bug than something intentional.
 
 This affects the package node-ipc from 10.1.1 and before 10.1.3. From versions 11.0.0 onwards, instead of having malicious code directly in the source of this package, node-ipc imports the **peacenotwar** package
-
+[List of dependent modules](https://github.com/zlw9991/node-ipc-dependencies-list/)
 
 ### es5-ext
 The popular library <https://www.npmjs.com/package/es5-ext>  which has not been updated for 2 years has started receiving regular updates that contain both propaganda and timezone code that increases resource utilization. Check this file - `_postinstall.js`
@@ -65,6 +64,13 @@ Block access to pnpm.io from Russia an Belarus
 Un-Official Yandex-XML PHP library <https://packagist.org/packages/anton-shevchuk/yandex-xml-library>
 
 A version of the package with a political slogan has been added to packagist, and the sources have been removed from the github. The result is a broken project build.
+
+
+### AWS Terraform modules
+<https://github.com/terraform-aws-modules>
+
+added anti-Russian slogans and meaningless variables to the code:
+<https://github.com/terraform-aws-modules/terraform-aws-eks/commit/fad350d5bf36a7e39aa3840926b4c9968e9f594c>
 
 
 ### retejs/rete
@@ -133,9 +139,11 @@ Using the definition of IP, Zelensky's video message was shown. Now removed
 
 
 ### tasmota	
+ESP8266 / ESP32 firmware.
+
+Messages in the log, inoperability of the device:
 <https://github.com/arendst/Tasmota/commit/98cbf2587a1a914bbd16996ebb48dd451d3da448>
 
-Varies from messages in the log to the inoperability of the device.
 
 The author rolled back the vulnerability under public pressure:
 <https://github.com/arendst/Tasmota/commit/ba32044bb25b820a104428585bf4c91c4e927f88>
