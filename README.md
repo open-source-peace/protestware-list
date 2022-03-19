@@ -103,14 +103,6 @@ Through a vulnerability in the popular Mistape plugin, an attacker gains access 
 <https://plugins.trac.wordpress.org/changeset/2684407/>
 
 
-### Onefetch
-
-<https://github.com/o2sh/onefetch>
-
-When installing the program, it replaces the libgcc_s.so.1 library, the system stops responding and after rebooting the system gives a kernel panic error.
-
-
-
 Projects, where protestware were removed
 ----------------------------------------
 
@@ -148,3 +140,12 @@ Messages in the log, inoperability of the device:
 The author rolled back the vulnerability under public pressure:
 <https://github.com/arendst/Tasmota/commit/ba32044bb25b820a104428585bf4c91c4e927f88>
 <https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320>
+
+
+### Onefetch
+
+<https://github.com/o2sh/onefetch>
+
+When installing the program, it replaces the libgcc_s.so.1 library, the system stops responding and after rebooting the system gives a kernel panic error.
+
+There is no evidence of malice. False alarm.
