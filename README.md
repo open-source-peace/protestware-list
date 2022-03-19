@@ -6,7 +6,9 @@ ProtestWare is a type of malware with political overtones. Implements unexpected
 
 ## About this list
 
-This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979), [GreatBookOfGrudges](https://github.com/ThorgrimGrudgebearer/GreatBookOfGrudges), [toxic-repos](https://github.com/stravnik/toxic-repos) and other sources.
+This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979), [GreatBookOfGrudges](https://github.com/ThorgrimGrudgebearer/GreatBookOfGrudges), [toxic-repos](https://github.com/stravnik/toxic-repos) and other sources. 
+
+Note. The list contains only those projects that affect end users or harm developers. The appearance of slogans in the documentation or in the source code is not a reason for inclusion in this list.
 
 
 ## How to update this list
@@ -83,29 +85,6 @@ A version of the [package](https://packagist.org/packages/anton-shevchuk/yandex-
 Added anti-Russian slogans and meaningless variables to the code. [One of commits](https://github.com/terraform-aws-modules/terraform-aws-eks/commit/fad350d5bf36a7e39aa3840926b4c9968e9f594c)
 
 
-### retejs/rete
-
-About project: JavaScript framework for visual programming.
-
-Added "StandWithUkraine" postinstall message. [commit](https://github.com/retejs/rete/commit/d3ff828a41f96e34f04619eb44c688c913ee8def)
-
-
-
-### composer 
-
-About project: Package Repository Website for Composer (PHP). [repo](https://github.com/composer/packagist)
-
-Added message "StandWithUkrane". [commit](https://github.com/composer/packagist/commit/86244a3695fcaaac9c5ba4257a4314eae1c6d981)
-
-
-### PHPUnit
-
-About project: testing framework for PHP. [repo](https://github.com/sebastianbergmann/)
-
-Added message "StandWithUkraine". [commit](https://github.com/sebastianbergmann/phpunit/commit/4634e702b5f05f5e948e531eb8b4fc19be40610c)
-
-
-
 ### Mistape WordPress plugin
 
 <https://wordpress.org/plugins/mistape/>
@@ -135,15 +114,6 @@ The (transitive) vulnerability in @vue/cli has been fixed. Please update to the 
 [repo](https://github.com/samber/awesome-prometheus-alerts)
 
 Determines the user's active language and redirects to the page with slogans. In the following commits, the code was removed. [commit](https://github.com/samber/awesome-prometheus-alerts/commit/6bfcdcca165e57c6fa09a561515c33284caa20c2)
-
-
-### filestash
-
-Filestash web site. [repo](https://github.com/mickael-kerjean/filestash-website)
-
-Using the definition of IP, Zelensky's video message was shown. [commit](https://github.com/mickael-kerjean/filestash-website/commit/c30a31a583c827182c92cb8ec4b5e8ba1d854c3d)
-
-Now removed.
 
 
 ### tasmota	
