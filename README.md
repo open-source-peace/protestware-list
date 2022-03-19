@@ -6,7 +6,7 @@ ProtestWare is a type of malware with political overtones. Implements unexpected
 
 ## About this list
 
-This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979) and other sources.
+This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979), [GreatBookOfGrudges](https://github.com/ThorgrimGrudgebearer/GreatBookOfGrudges), [toxic-repos](https://github.com/stravnik/toxic-repos) and other sources.
 
 
 ## How to update this list
@@ -16,6 +16,7 @@ Please open an issue or create a pull request.
 
 Open source projects with protestware
 -------------------------------------
+
 
 
 ### peacenotwar
@@ -45,25 +46,28 @@ The popular library <https://www.npmjs.com/package/es5-ext>  which has not been 
 
 Has anti-war manifest.
 
+### Quake3e
+
+About project: Improved Quake III Arena engine.
+
+26.02.2022 Removed support of Russian MCST/Elbrus platform: [commit](https://github.com/ec-/Quake3e/commit/50167f34e361bac156315e53efccb5a5d4acac80)
 
 ### RedisDesktopManager
 
-<https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22>
+Russian language was removed. [commit](https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22)
 
-Russian language was removed.
 
 ### pnpm
 
-<https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83>
-<https://github.com/pnpm/pnpm/commit/0066c11b9779971349d323c9fffced0271535cb7>
+Added anti-Russian statement. [commit](https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83)
 
-Block access to pnpm.io from Russia an Belarus
+Also access to pnpm.io is blocked from Russia an Belarus
 
-### yandex-xml-library
+### yandex-xml-library (PHP)
 
 Un-Official Yandex-XML PHP library <https://packagist.org/packages/anton-shevchuk/yandex-xml-library>
 
-A version of the package with a political slogan has been added to packagist, and the sources have been removed from the github. The result is a broken project build.
+A version of the package with a political slogan has been added to packagist, and the sources have been removed from the GitHub. The result is a broken project build.
 
 
 ### AWS Terraform modules
