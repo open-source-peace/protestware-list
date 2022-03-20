@@ -49,6 +49,13 @@ The popular [npm-package](https://www.npmjs.com/package/es5-ext) which has not b
 [Issue](https://github.com/medikoo/es5-ext/issues/116) |
 [commit](https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2)
 
+### EventSource
+
+About project: EventSource polyfill. [repo](https://github.com/Yaffle/EventSource)
+
+[Issue](https://github.com/Yaffle/EventSource/issues/199) | [commit](https://github.com/Yaffle/EventSource/commit/de137927e13d8afac153d2485152ccec48948a7a) | [code](https://github.com/Yaffle/EventSource/blob/master/src/eventsource.js#L1032)
+
+The library displays political slogans on your site. To do this, it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that, the library opens a political/malicious website in a pop-up window.
 
 ### Quake3e
 
@@ -62,6 +69,10 @@ GUI for Redis. [repo](https://github.com/uglide/RedisDesktopManager/)
 
 Russian translation was removed. [commit](https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22)
 
+### Evolution CMS
+
+01.03.2022 since versions 3.1.10 and 1.4.17 political image added to the admin panel.
+[сommit](https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77)
 
 ### pnpm
 
