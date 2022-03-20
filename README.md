@@ -57,6 +57,14 @@ About project: EventSource polyfill. [repo](https://github.com/Yaffle/EventSourc
 
 The library displays political slogans on your site. To do this, it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that, the library opens a political/malicious website in a pop-up window.
 
+### Qalculate!
+
+About project: cross-platform desktop calculator. [repo](https://github.com/Qalculate/qalculate-gtk)
+
+14.03.2020 Russian and Belarus flags were removed for national currencies.
+
+[Issue](https://github.com/Qalculate/qalculate-gtk/issues/389) | [commit](https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456)
+
 ### Quake3e
 
 About project: Improved Quake III Arena engine. [repo](https://github.com/ec-/Quake3e)
