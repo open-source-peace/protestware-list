@@ -82,6 +82,13 @@ Russian translation was removed. [commit](https://github.com/uglide/RedisDesktop
 01.03.2022 since versions 3.1.10 and 1.4.17 political image added to the admin panel.
 [сommit](https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77)
 
+### voicybot 
+About project: bot for Telegram. [repo](https://github.com/backmeupplz/voicy)
+
+02.03.2022 Promo bot message modified to political slogan. 
+[Issue](https://github.com/backmeupplz/voicy/issues/57) |
+[commit](https://github.com/backmeupplz/voicy/commit/1da565a80ab8f2681fddbcf443df60e6a7a15fa5)
+
 ### pnpm
 
 About project: Package manager. [repo](https://github.com/pnpm/pnpm/)
