@@ -20,11 +20,14 @@ Open source projects with protestware
 -------------------------------------
 
 ### peacenotwar
-ProtestWare NPM-package. [repo](https://github.com/RIAEvangelist/peacenotwar)
+
+About project: ProtestWare NPM-package. [repo](https://github.com/RIAEvangelist/peacenotwar)
 
 If any users are using IP in Russia or Belarus, all their file will be [wiped entirely by hearts](https://security.snyk.io/vuln/SNYK-JS-PEACENOTWAR-2426724).
 
+
 ### node-ipc
+
 About project: NPM-module for Inter Process Communication. [repo](https://github.com/RIAEvangelist/node-ipc)
 
 [CVE-2022-23812](https://nvd.nist.gov/vuln/detail/CVE-2022-23812)
@@ -49,6 +52,7 @@ The popular [npm-package](https://www.npmjs.com/package/es5-ext) which has not b
 [Issue](https://github.com/medikoo/es5-ext/issues/116) |
 [commit](https://github.com/medikoo/es5-ext/commit/28de285ed433b45113f01e4ce7c74e9a356b2af2)
 
+
 ### EventSource
 
 About project: EventSource polyfill. [repo](https://github.com/Yaffle/EventSource)
@@ -57,30 +61,12 @@ About project: EventSource polyfill. [repo](https://github.com/Yaffle/EventSourc
 
 The library displays political slogans on your site. To do this, it uses the alert() function with a 15 sec timeout if the user's time zone is Russian. After that, the library opens a political/malicious website in a pop-up window.
 
-### Qalculate!
-
-About project: cross-platform desktop calculator. [repo](https://github.com/Qalculate/qalculate-gtk)
-
-14.03.2020 Russian and Belarus flags were removed for national currencies.
-
-[Issue](https://github.com/Qalculate/qalculate-gtk/issues/389) | [commit](https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456)
-
-### Quake3e
-
-About project: Improved Quake III Arena engine. [repo](https://github.com/ec-/Quake3e)
-
-26.02.2022 Removed support of Russian MCST/Elbrus platform: [commit](https://github.com/ec-/Quake3e/commit/50167f34e361bac156315e53efccb5a5d4acac80)
-
-
-### RESP.app / RedisDesktopManager
-GUI for Redis. [repo](https://github.com/uglide/RedisDesktopManager/)
-
-Russian translation was removed. [commit](https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22)
 
 ### Evolution CMS
 
 01.03.2022 since versions 3.1.10 and 1.4.17 political image added to the admin panel.
 [сommit](https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77)
+
 
 ### voicybot 
 About project: bot for Telegram. [repo](https://github.com/backmeupplz/voicy)
@@ -88,14 +74,6 @@ About project: bot for Telegram. [repo](https://github.com/backmeupplz/voicy)
 02.03.2022 Promo bot message modified to political slogan. 
 [Issue](https://github.com/backmeupplz/voicy/issues/57) |
 [commit](https://github.com/backmeupplz/voicy/commit/1da565a80ab8f2681fddbcf443df60e6a7a15fa5)
-
-### pnpm
-
-About project: Package manager. [repo](https://github.com/pnpm/pnpm/)
-
-Added anti-Russian statement. [commit](https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83)
-
-Also access to pnpm.io is blocked from Russia an Belarus
 
 
 ### yandex-xml-library (PHP)
@@ -120,9 +98,44 @@ Through a vulnerability in the popular Mistape plugin, an attacker gains access 
 [changeset](https://plugins.trac.wordpress.org/changeset/2684407/)
 
 
+Projects that cancel Russia
+---------------------------
+
+List of projects that demonstrate [cancel culture](https://en.wikipedia.org/wiki/Cancel_culture) towards Russia.
+
+### Quake3e
+
+About project: Improved Quake III Arena engine. [repo](https://github.com/ec-/Quake3e)
+
+26.02.2022 Removed support of Russian MCST/Elbrus platform: [commit](https://github.com/ec-/Quake3e/commit/50167f34e361bac156315e53efccb5a5d4acac80)
+
+
+### RESP.app / RedisDesktopManager
+GUI for Redis. [repo](https://github.com/uglide/RedisDesktopManager/)
+
+Russian translation was removed. [commit](https://github.com/uglide/RedisDesktopManager/commit/8b2b357d9d233100f84a69f81ed22b8caa04fa22)
+
+
+### pnpm
+
+About project: Package manager. [repo](https://github.com/pnpm/pnpm/)
+
+Added anti-Russian statement. [commit](https://github.com/pnpm/pnpm/commit/3c328ec465c597ff558c1f38afbfe2a0c1b02a83)
+
+Also access to pnpm.io is blocked from Russia an Belarus
+
+
+### Qalculate!
+
+About project: cross-platform desktop calculator. [repo](https://github.com/Qalculate/qalculate-gtk)
+
+14.03.2020 Russian and Belarus flags were removed for national currencies.
+
+[Issue](https://github.com/Qalculate/qalculate-gtk/issues/389) | [commit](https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456)
+
+
 Projects, where protestware were removed
 ----------------------------------------
-
 
 ### Vue CLI
 
