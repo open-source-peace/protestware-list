@@ -6,10 +6,11 @@ ProtestWare is a type of malware with political overtones. Implements unexpected
 
 ## About this list
 
-This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979), [GreatBookOfGrudges](https://github.com/ThorgrimGrudgebearer/GreatBookOfGrudges), [toxic-repos](https://github.com/stravnik/toxic-repos) and other sources. 
+This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979), [toxic-repos](https://github.com/stravnik/toxic-repos), [GreatBookOfGrudges](https://github.com/ThorgrimGrudgebearer/GreatBookOfGrudges) and other sources. 
 
-Note. The list contains only those projects that affect end users or harm developers. The appearance of slogans in the documentation or in the source code is not a reason for inclusion in this list.
+Note. The list contains only those projects that affect end users or harm developers. The appearance of slogans in the documentation or in the source code is not a reason for inclusion in this list. The list does not include obscure repositories that have less than 10 stars.
 
+If you think that following repos violates GitHub's [Terms of Service](https://github.com/site/terms), you can [report abuse](https://support.github.com/contact/report-abuse?category=report-content&report=other).
 
 ## How to update this list
 
