@@ -6,7 +6,7 @@ ProtestWare is a type of malware with political overtones. Implements unexpected
 
 ## About this list
 
-This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979), [toxic-repos](https://github.com/stravnik/toxic-repos), [GreatBookOfGrudges](https://github.com/ThorgrimGrudgebearer/GreatBookOfGrudges) and other sources. 
+This list is based on [CTO Club List](https://docs.google.com/spreadsheets/d/1H3xPB4PgWeFcHjZ7NOPtrcya_Ua4jUolWm-7z9-jSpQ/htmlview?pru=AAABf7z88MA*ITSp0EBrKinw0LjFWZ9tzQ#gid=2074850979), its copy on GitHub [toxic-repos](https://github.com/stravnik/toxic-repos) and other sources. 
 
 Note. The list contains only those projects that affect end users or harm developers. The appearance of slogans in the documentation or in the source code is not a reason for inclusion in this list. The list does not include obscure repositories that have less than 10 stars.
 
@@ -133,6 +133,12 @@ About project: cross-platform desktop calculator. [repo](https://github.com/Qalc
 14.03.2020 Russian and Belarus flags were removed for national currencies.
 
 [Issue](https://github.com/Qalculate/qalculate-gtk/issues/389) | [commit](https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456)
+
+### Yet Another Dialog
+
+About project: program allows you to display GTK+ dialog boxes from command line. [repo](https://github.com/v1cont/yad)
+
+02.03.2021 Russian locale removed. [commit](https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a)
 
 
 Projects, where protestware were removed
