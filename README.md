@@ -68,6 +68,7 @@ The library displays political slogans on your site. To do this, it uses the ale
 01.03.2022 since versions 3.1.10 and 1.4.17 political image added to the admin panel.
 [сommit](https://github.com/evolution-cms/evolution/commit/1c586bc76f739264dcf0482530945875fa444b77)
 
+The project was forked as [Evolution CMS Community Edition](https://github.com/evocms-community/evolution) to continue development without any  political slogans.
 
 ### voicybot 
 About project: bot for Telegram. [repo](https://github.com/backmeupplz/voicy)
