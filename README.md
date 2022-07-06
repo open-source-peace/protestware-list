@@ -131,7 +131,7 @@ Also access to pnpm.io is blocked from Russia an Belarus
 
 About project: cross-platform desktop calculator. [repo](https://github.com/Qalculate/qalculate-gtk)
 
-14.03.2020 Russian and Belarus flags were removed for national currencies.
+14.03.2022 Russian and Belarus flags were removed for national currencies.
 
 [Issue](https://github.com/Qalculate/qalculate-gtk/issues/389) | [commit](https://github.com/Qalculate/qalculate-gtk/commit/74c7413429b386f08028565f16f537204217b456)
 
@@ -139,22 +139,11 @@ About project: cross-platform desktop calculator. [repo](https://github.com/Qalc
 
 About project: program allows you to display GTK+ dialog boxes from command line. [repo](https://github.com/v1cont/yad)
 
-02.03.2021 Russian locale removed. [commit](https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a)
+02.03.2022 Russian locale removed. [commit](https://github.com/v1cont/yad/commit/e38f7fa71aa9b2dff408ae14ca7133e4fdc4b02a)
 
 
 Projects, where protestware were removed
 ----------------------------------------
-
-### Vue CLI
-
-[Issue](https://github.com/vuejs/vue-cli/issues/7054)
-
-Transitive dependency on **node-ipc**.
-
-node-ipc has been [version-locked](https://github.com/vuejs/vue-cli/issues/7051) to a previous release by vue/cli-shared-utils, perhaps one of the more popular downstream consumers of the package.
-
-The (transitive) vulnerability in @vue/cli has been fixed. Please update to the latest versions of @vue/cli, either 4.5.16+ or 5.0.3+
-
 
 ### Awesome Prometheus Alerts	
 
@@ -175,11 +164,3 @@ The author rolled back the vulnerability under public pressure:
 [commit 1](https://github.com/arendst/Tasmota/commit/ba32044bb25b820a104428585bf4c91c4e927f88) |
 [commit 2](https://github.com/arendst/Tasmota/commit/b4f99bb74704e4a5f85b7ba9e03b126bf1c43320)
 
-
-### Onefetch
-
-About project: A command-line Git information tool. [repo](https://github.com/o2sh/onefetch)
-
-When installing the program, it replaces the libgcc_s.so.1 library, the system stops responding and after rebooting the system gives a kernel panic error.
-
-There is no evidence of malice. False alarm.
